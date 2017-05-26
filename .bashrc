@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Path
-
-  export PATH="$PATH:/Applications/DiffMerge.app/Contents/MacOS:~/devtools:$HOME/.fastlane/bin:/usr/local/Cellar/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/jekyll-3.4.3/exe:/usr/local/Cellar/ruby/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.14.6/exe:~/Library/Android/sdk/platform-tools"
-
 # Prompt setup and environment colors
 
 #source ~/.git-prompt.sh
